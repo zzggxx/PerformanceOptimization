@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ButterKnife</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="city">
+        <item>厦门市</item>
+        <item>福州市</item>
+        <item>泉州市</item>
+        <item>漳州市</item>
+        <item>龙岩市</item>
+    </string-array>
+</resources>
